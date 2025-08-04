@@ -35,7 +35,7 @@ This project is a **concept website** for a moving company named **Move IT**. It
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CountessOreo/Move-IT-.git
    ```
 
 2. Open the HTML file:
