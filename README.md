@@ -12,6 +12,19 @@ This project is a **concept website** for a moving company named **Move IT**. It
   
 - **Responsive Layout**: The website is fully **responsive** to adapt to different screen sizes, using **Bootstrap 5** to ensure the content looks great on both desktop and mobile devices.
 
+
+## Screenshots
+
+### Hero
+<img width="1429" height="860" alt="Hero and Features" src="https://github.com/user-attachments/assets/902dbe15-b08a-46a0-b505-fd6be84652d9" />
+
+### Testimonials
+<img width="1494" height="551" alt="Testimonials" src="https://github.com/user-attachments/assets/8444df3f-eee4-44cf-8d17-9ca6d53b2c09" />
+
+### Pricing and Footer
+<img width="1515" height="765" alt="Pricing and Footer" src="https://github.com/user-attachments/assets/7933f169-a5fd-418b-a8e6-8c89fd4cf6fa" />
+
+
 ## Built With
 
 - **HTML**: The structure and content of the page are built using HTML5.
