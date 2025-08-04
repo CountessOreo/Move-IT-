@@ -15,14 +15,16 @@ This project is a **concept website** for a moving company named **Move IT**. It
 
 ## Screenshots
 
-### Hero
-<img width="1429" height="860" alt="Hero and Features" src="https://github.com/user-attachments/assets/902dbe15-b08a-46a0-b505-fd6be84652d9" />
+### Navbar & Hero
+<img width="1894" height="713" alt="Moving-Hero" src="https://github.com/user-attachments/assets/0153254c-2663-4c0c-84c4-47a5cb662397" />
 
-### Testimonials
-<img width="1494" height="551" alt="Testimonials" src="https://github.com/user-attachments/assets/8444df3f-eee4-44cf-8d17-9ca6d53b2c09" />
 
-### Pricing and Footer
-<img width="1515" height="765" alt="Pricing and Footer" src="https://github.com/user-attachments/assets/7933f169-a5fd-418b-a8e6-8c89fd4cf6fa" />
+### Features & Carosel
+<img width="1142" height="896" alt="MovingFeatures" src="https://github.com/user-attachments/assets/d1d49005-f60e-4f83-a5da-466769bd6cd1" />
+
+
+### Footer
+<img width="1179" height="312" alt="MovingFooter" src="https://github.com/user-attachments/assets/f04562cc-e1da-4398-bdf9-21dce70d65a0" />
 
 
 ## Built With
